@@ -22,5 +22,11 @@ Ordered
 빈 줄이 없으면 자동으로 앞의 문장 뒤에 붙습니다.(Space Bar를 두 번 이상 눌러 띄어쓰기를 하면..)  
 위 문장에서 두 칸의 공백을 두어 강제 개행할 수 있습니다.
 
-###
-![내사진](https://user-images.githubusercontent.com/55375642/75102450-29070900-562f-11ea-9b51-de67ac804a1a.jpg)
+## 이미지 마크다운형식 , html 형식의 이미지 업로드하기  
+
+### 마크다운형식  
+![그냥 사진](./내사진.jpg)  
+### html 형식  
+<div>
+   <img src="내사진.jpg" width="450px" height="300px" />
+</div>
